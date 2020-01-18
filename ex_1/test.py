@@ -17,9 +17,9 @@ target_val = housing.target.reshape(-1, 1)
 X_train, X_test, t_train, t_test = \
 	train_test_split(housing_data_plus_bias, target_val, test_size=0.2, random_state=42)
 
+
 n_train, m = X_train.shape
 n_test, m = X_test.shape
-
 X = tf.placeholder(tf.float64, shape = (None, m), name = 'X')
 t = tf.placeholder(tf.float64, shape = (None, 1), name = 't')
 n = tf.placeholder(tf.float64, name = 'n')
@@ -38,6 +38,7 @@ MSE_test = tf.div(tf.matmul(tf.transpose(y_test-t), y_test-t), n)
 with tf.Session() as sess:
 	MSE_train_val, w_val = \
 	sess.run([MSE, w], feed_dict={X: X_train, t: t_train, n: n_train})
+	import ipdb; ipdb.set_trace()
 
 	MSE_test_val = \
 	sess.run([MSE_test], feed_dict={X: X_test, t: t_test, n: n_test, w_star: w_val})
