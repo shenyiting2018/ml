@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9beaef92-8d82-4a55-b559-746eaf4e98a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accuracy-rate.png" beforeDir="false" afterPath="$PROJECT_DIR$/accuracy-rate.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework1.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +99,9 @@
       <module name="ex_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -145,7 +149,8 @@
       <workItem from="1578980641187" duration="4477000" />
       <workItem from="1579060474533" duration="7131000" />
       <workItem from="1579069642563" duration="99000" />
-      <workItem from="1579069744798" duration="28422000" />
+      <workItem from="1579069744798" duration="29132000" />
+      <workItem from="1579376981056" duration="1928000" />
     </task>
     <servers />
   </component>
@@ -209,9 +214,10 @@
     </state>
     <state x="90" y="23" width="1192" height="778" key="dock-window-2/0.23.1440.877/1440.-198.1920.927@1440.-198.1920.927" timestamp="1579156702532" />
     <state x="90" y="23" width="1192" height="776" key="dock-window-2/0.23.1440.877/1440.-198.1920.950@1440.-198.1920.950" timestamp="1579239987041" />
-    <state x="2189" y="-131" width="1090" height="843" key="dock-window-3" timestamp="1579298144100">
-      <screen x="1440" y="-198" width="1920" height="958" />
+    <state x="2189" y="-131" width="1090" height="843" key="dock-window-3" timestamp="1579376785312">
+      <screen x="1440" y="-198" width="1920" height="940" />
     </state>
+    <state x="2189" y="-131" width="1090" height="843" key="dock-window-3/0.23.1440.877/1440.-198.1920.940@1440.-198.1920.940" timestamp="1579376785312" />
     <state x="2189" y="-131" width="1090" height="843" key="dock-window-3/0.23.1440.877/1440.-198.1920.958@1440.-198.1920.958" timestamp="1579298144098" />
     <state x="2136" y="49" width="670" height="684" key="search.everywhere.popup" timestamp="1579243983037">
       <screen x="1440" y="-198" width="1920" height="950" />

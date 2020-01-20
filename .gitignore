@@ -1,2 +1,6 @@
-.DW_Store
+.DS_Store
 */venv/
+venv/
+*.zip
+*DS_Store
+.DS_Store
