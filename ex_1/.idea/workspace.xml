@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9beaef92-8d82-4a55-b559-746eaf4e98a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iris.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework2-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework2-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homwork2-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homwork2-3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accuracy-rate.png" beforeDir="false" afterPath="$PROJECT_DIR$/accuracy-rate.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework1.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,14 +51,14 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.homework1">
+  <component name="RunManager" selected="Python.homework2-5">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="ex_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="homework2-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ex_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +91,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework2-4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,20 +100,74 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="homework2-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ex_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework2-5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homwork2-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homwork2-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homwork2-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homwork2-3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,8 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.homework1" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.homework2-5" />
+        <item itemvalue="Python.homework2" />
+        <item itemvalue="Python.homwork2-3" />
+        <item itemvalue="Python.homework2-4" />
+        <item itemvalue="Python.homwork2-2" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +213,10 @@
       <workItem from="1579069642563" duration="99000" />
       <workItem from="1579069744798" duration="29132000" />
       <workItem from="1579376981056" duration="1928000" />
+      <workItem from="1579676667931" duration="1002000" />
+      <workItem from="1579677832677" duration="11643000" />
+      <workItem from="1579731386618" duration="544000" />
+      <workItem from="1579732008365" duration="10559000" />
     </task>
     <servers />
   </component>
@@ -158,55 +224,74 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1591" height="289" key="GridCell.Tab.0.bottom" timestamp="1579069638497">
-      <screen x="1440" y="-198" width="1920" height="940" />
+    <state x="2024" y="156" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579765362349">
+      <screen x="1440" y="-198" width="1920" height="1057" />
     </state>
+    <state x="2024" y="156" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.781/1440.-198.1920.1057@1440.-198.1920.1057" timestamp="1579765362349" />
+    <state width="1701" height="343" key="GridCell.Tab.0.bottom" timestamp="1579765484349">
+      <screen x="1440" y="-198" width="1920" height="1057" />
+    </state>
+    <state width="1701" height="343" key="GridCell.Tab.0.bottom/0.23.1440.781/1440.-198.1920.1057@1440.-198.1920.1057" timestamp="1579765484349" />
     <state width="1591" height="289" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-198.1920.940@1440.-198.1920.940" timestamp="1579069638497" />
-    <state width="1591" height="289" key="GridCell.Tab.0.center" timestamp="1579069638495">
-      <screen x="1440" y="-198" width="1920" height="940" />
+    <state width="1701" height="343" key="GridCell.Tab.0.center" timestamp="1579765484347">
+      <screen x="1440" y="-198" width="1920" height="1057" />
     </state>
+    <state width="1701" height="343" key="GridCell.Tab.0.center/0.23.1440.781/1440.-198.1920.1057@1440.-198.1920.1057" timestamp="1579765484347" />
     <state width="1591" height="289" key="GridCell.Tab.0.center/0.23.1440.877/1440.-198.1920.940@1440.-198.1920.940" timestamp="1579069638495" />
-    <state width="1591" height="289" key="GridCell.Tab.0.left" timestamp="1579069638494">
-      <screen x="1440" y="-198" width="1920" height="940" />
+    <state width="1701" height="343" key="GridCell.Tab.0.left" timestamp="1579765484346">
+      <screen x="1440" y="-198" width="1920" height="1057" />
     </state>
+    <state width="1701" height="343" key="GridCell.Tab.0.left/0.23.1440.781/1440.-198.1920.1057@1440.-198.1920.1057" timestamp="1579765484346" />
     <state width="1591" height="289" key="GridCell.Tab.0.left/0.23.1440.877/1440.-198.1920.940@1440.-198.1920.940" timestamp="1579069638494" />
-    <state width="1591" height="289" key="GridCell.Tab.0.right" timestamp="1579069638496">
-      <screen x="1440" y="-198" width="1920" height="940" />
+    <state width="1701" height="343" key="GridCell.Tab.0.right" timestamp="1579765484348">
+      <screen x="1440" y="-198" width="1920" height="1057" />
     </state>
+    <state width="1701" height="343" key="GridCell.Tab.0.right/0.23.1440.781/1440.-198.1920.1057@1440.-198.1920.1057" timestamp="1579765484348" />
     <state width="1591" height="289" key="GridCell.Tab.0.right/0.23.1440.877/1440.-198.1920.940@1440.-198.1920.940" timestamp="1579069638496" />
-    <state width="1591" height="289" key="GridCell.Tab.1.bottom" timestamp="1579069638502">
-      <screen x="1440" y="-198" width="1920" height="940" />
+    <state width="1701" height="343" key="GridCell.Tab.1.bottom" timestamp="1579765484352">
+      <screen x="1440" y="-198" width="1920" height="1057" />
     </state>
+    <state width="1701" height="343" key="GridCell.Tab.1.bottom/0.23.1440.781/1440.-198.1920.1057@1440.-198.1920.1057" timestamp="1579765484352" />
     <state width="1591" height="289" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-198.1920.940@1440.-198.1920.940" timestamp="1579069638502" />
-    <state width="1591" height="289" key="GridCell.Tab.1.center" timestamp="1579069638500">
-      <screen x="1440" y="-198" width="1920" height="940" />
+    <state width="1701" height="343" key="GridCell.Tab.1.center" timestamp="1579765484351">
+      <screen x="1440" y="-198" width="1920" height="1057" />
     </state>
+    <state width="1701" height="343" key="GridCell.Tab.1.center/0.23.1440.781/1440.-198.1920.1057@1440.-198.1920.1057" timestamp="1579765484351" />
     <state width="1591" height="289" key="GridCell.Tab.1.center/0.23.1440.877/1440.-198.1920.940@1440.-198.1920.940" timestamp="1579069638500" />
-    <state width="1591" height="289" key="GridCell.Tab.1.left" timestamp="1579069638499">
-      <screen x="1440" y="-198" width="1920" height="940" />
+    <state width="1701" height="343" key="GridCell.Tab.1.left" timestamp="1579765484350">
+      <screen x="1440" y="-198" width="1920" height="1057" />
     </state>
+    <state width="1701" height="343" key="GridCell.Tab.1.left/0.23.1440.781/1440.-198.1920.1057@1440.-198.1920.1057" timestamp="1579765484350" />
     <state width="1591" height="289" key="GridCell.Tab.1.left/0.23.1440.877/1440.-198.1920.940@1440.-198.1920.940" timestamp="1579069638499" />
-    <state width="1591" height="289" key="GridCell.Tab.1.right" timestamp="1579069638501">
-      <screen x="1440" y="-198" width="1920" height="940" />
+    <state width="1701" height="343" key="GridCell.Tab.1.right" timestamp="1579765484351">
+      <screen x="1440" y="-198" width="1920" height="1057" />
     </state>
+    <state width="1701" height="343" key="GridCell.Tab.1.right/0.23.1440.781/1440.-198.1920.1057@1440.-198.1920.1057" timestamp="1579765484351" />
     <state width="1591" height="289" key="GridCell.Tab.1.right/0.23.1440.877/1440.-198.1920.940@1440.-198.1920.940" timestamp="1579069638501" />
     <state x="1980" y="-63" key="SettingsEditor" timestamp="1578984038150">
       <screen x="1440" y="-198" width="1920" height="945" />
     </state>
     <state x="1980" y="-63" key="SettingsEditor/0.23.1440.877/1440.-198.1920.945@1440.-198.1920.945" timestamp="1578984038150" />
+    <state width="907" height="452" key="XDebugger.FullValuePopup" timestamp="1579721047844">
+      <screen x="1440" y="-198" width="1920" height="1057" />
+    </state>
+    <state width="907" height="452" key="XDebugger.FullValuePopup/0.23.1440.771/1440.-198.1920.1057@1440.-198.1920.1057" timestamp="1579721047844" />
     <state x="2045" y="19" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1579376361374">
       <screen x="1440" y="-198" width="1920" height="940" />
     </state>
     <state x="2045" y="19" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.23.1440.877/1440.-198.1920.940@1440.-198.1920.940" timestamp="1579376361374" />
-    <state x="2034" y="108" key="com.intellij.ide.util.TipDialog" timestamp="1579060475283">
-      <screen x="1440" y="-198" width="1920" height="945" />
+    <state x="2034" y="102" key="com.intellij.ide.util.TipDialog" timestamp="1579732008479">
+      <screen x="1440" y="-198" width="1920" height="927" />
     </state>
+    <state x="2034" y="102" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.-198.1920.927@1440.-198.1920.927" timestamp="1579732008479" />
     <state x="2034" y="106" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.-198.1920.940@1440.-198.1920.940" timestamp="1578980779031" />
     <state x="2034" y="108" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.-198.1920.945@1440.-198.1920.945" timestamp="1579060475283" />
-    <state x="464" y="23" width="923" height="811" key="dock-window-1" timestamp="1579153003278">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="-10" y="23" width="1656" height="877" key="dock-window-1" timestamp="1579749155460">
+      <screen x="0" y="23" width="1440" height="786" />
     </state>
-    <state x="464" y="23" width="923" height="811" key="dock-window-1/0.23.1440.877/1440.-198.1920.922@1440.-198.1920.922" timestamp="1579153003278" />
+    <state x="103" y="23" width="1242" height="771" key="dock-window-1/0.23.1440.771/1440.-198.1920.1057@1440.-198.1920.1057" timestamp="1579716979450" />
+    <state x="15" y="23" width="1335" height="877" key="dock-window-1/0.23.1440.877/1440.-198.1920.922@1440.-198.1920.922" timestamp="1579677828555" />
+    <state x="-10" y="23" width="1656" height="877" maximized="true" key="dock-window-1/0.23.1440.877/1440.-198.1920.927@1440.-198.1920.927" timestamp="1579732043924" />
     <state x="272" y="91" width="1025" height="628" key="dock-window-1/0.23.1440.877/1440.-198.1920.940@1440.-198.1920.940" timestamp="1579069759557" />
     <state x="76" y="54" width="1025" height="628" key="dock-window-1/0.23.1440.877/1440.-198.1920.945@1440.-198.1920.945" timestamp="1579060586817" />
     <state x="90" y="23" width="1192" height="776" key="dock-window-2" timestamp="1579239987041">
@@ -219,9 +304,12 @@
     </state>
     <state x="2189" y="-131" width="1090" height="843" key="dock-window-3/0.23.1440.877/1440.-198.1920.940@1440.-198.1920.940" timestamp="1579376785312" />
     <state x="2189" y="-131" width="1090" height="843" key="dock-window-3/0.23.1440.877/1440.-198.1920.958@1440.-198.1920.958" timestamp="1579298144098" />
-    <state x="2136" y="49" width="670" height="684" key="search.everywhere.popup" timestamp="1579243983037">
-      <screen x="1440" y="-198" width="1920" height="950" />
+    <state x="2136" y="77" width="670" height="762" key="search.everywhere.popup" timestamp="1579764484536">
+      <screen x="1440" y="-198" width="1920" height="1057" />
     </state>
+    <state x="2136" y="77" width="670" height="762" key="search.everywhere.popup/0.23.1440.781/1440.-198.1920.1057@1440.-198.1920.1057" timestamp="1579764484536" />
+    <state x="2136" y="42" width="670" height="664" key="search.everywhere.popup/0.23.1440.877/1440.-198.1920.922@1440.-198.1920.922" timestamp="1579677902505" />
+    <state x="2136" y="43" width="670" height="668" key="search.everywhere.popup/0.23.1440.877/1440.-198.1920.927@1440.-198.1920.927" timestamp="1579732102347" />
     <state x="2136" y="45" width="670" height="672" key="search.everywhere.popup/0.23.1440.877/1440.-198.1920.934@1440.-198.1920.934" timestamp="1579073665809" />
     <state x="2136" y="47" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/1440.-198.1920.940@1440.-198.1920.940" timestamp="1579070712728" />
     <state x="2136" y="49" width="670" height="684" key="search.everywhere.popup/0.23.1440.877/1440.-198.1920.950@1440.-198.1920.950" timestamp="1579243983037" />
@@ -247,5 +335,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ex_1$homework1.coverage" NAME="homework1 Coverage Results" MODIFIED="1579069071736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ex_1$test.coverage" NAME="test Coverage Results" MODIFIED="1579065395074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex_1$homwork2_3.coverage" NAME="homwork2-3 Coverage Results" MODIFIED="1579765212112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
