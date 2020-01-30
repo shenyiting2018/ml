@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9beaef92-8d82-4a55-b559-746eaf4e98a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework3-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework2-6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/accuracy-rate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework2-4.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/homework2-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework2-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homwork2-2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homwork2-3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex_2/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework2.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +222,7 @@
       <workItem from="1579677832677" duration="11643000" />
       <workItem from="1579731386618" duration="544000" />
       <workItem from="1579732008365" duration="13802000" />
-      <workItem from="1579843209319" duration="8166000" />
+      <workItem from="1579843209319" duration="7449000" />
     </task>
     <servers />
   </component>
